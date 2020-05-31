@@ -1,0 +1,7 @@
+public class pkgexample{
+public void display()
+{
+	System.out.println("Pkg calling in the anothe file");
+//import pkg with import pkg.*;in another file u can use create that file object and call method
+}
+}
